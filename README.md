@@ -1,4 +1,4 @@
-# 🚀 excellence Coaching Website
+# Excellence Coaching Website
 
 Welcome to the **EdTech Platform**, a modern and responsive educational website designed to deliver quality learning experiences across devices.
 
